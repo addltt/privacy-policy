@@ -21,7 +21,7 @@ Definitions
 For the purposes of these Terms and Conditions:
 
   * Application means the software program provided by the Company downloaded
-    by You on any electronic device, named Georgina Chavez Bot - Test1
+    by You on any electronic device, named Georgina Chavez Bot
 
   * Application Store means the digital distribution service operated and
     developed by Apple Inc. (Apple App Store) or Google Inc. (Google Play
